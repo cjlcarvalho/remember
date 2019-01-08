@@ -8,4 +8,4 @@ Dependencies:
 
 Usage:
 
-Use --empty or --abandoned to check your orphan repositories. 👻
+Use `--empty` or `--abandoned` to check your orphan repositories. 👻
