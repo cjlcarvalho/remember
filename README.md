@@ -5,3 +5,7 @@ Dependencies:
   - requests
   - yaml
   - termcolor
+
+Usage:
+
+Use --empty or --abandoned to check your orphan repositories. 👻
