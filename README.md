@@ -1,11 +1,11 @@
 # remember
 👻 Remember about your empty repositories and your abandoned projects 👻
 
-Dependencies:
+**Dependencies:**
   - requests
   - yaml
   - termcolor
 
-Usage:
+**Usage:**
 
 Use `--empty` or `--abandoned` to check your orphan repositories. 👻
